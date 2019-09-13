@@ -5,12 +5,18 @@
   - 合肥新桥机场
     - (1)(2)
       - 出租车平均等候时间
-      - 平均收入与机场载客的收益
+      - 平均收入与机场载客的收益、can refer to the data online
       - 司机对航班情况的熟悉程度
-      - 等候区空人概率
-      - 其他影响乘客数量的不确定因素（一辆车坐几人等）
+      - 等候区空人概率 the high time and the low time
+      - 其他影响乘客数量的不确定因素（一辆车坐几人等）and the possibility
+      - the time the pessenger need to get in a car and the distribution（the time the later car arrive minus the time the former car arrive）
+      - （N、t）fit
+      - the possibility of the airflight be late and the distribution
     - (3)
       - 出租车乘坐区的规划
+      - the photo and the map
+      - the arriving rate of the passengers
+      - the delay of a car
     - (4)
     
   - 网络
