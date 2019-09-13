@@ -17,6 +17,7 @@
       - the photo and the map
       - the arriving rate of the passengers
       - the delay of a car
+      - the rate of the pessengers with a suitcase
     - (4)
     
   - 网络
