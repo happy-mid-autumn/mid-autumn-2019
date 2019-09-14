@@ -1,4 +1,4 @@
-- ??P = 0.12
+- 最佳P = 0.12
     t_bound = [9.512478, 33.155494]
     t_bound found by gradient descent:
     9.512478
